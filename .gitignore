@@ -1,0 +1,29 @@
+
+.DS_Store
+Thumbs.db
+
+
+.env
+config.php
+
+
+vendor/
+
+
+*.log
+*.cache
+*.tmp
+*.bak
+
+
+.vscode/
+*.sublime-project
+*.sublime-workspace
+*.idea/
+
+
+SQL Files/*.log
+SQL Files/*.bak
+
+
+htdocs/
