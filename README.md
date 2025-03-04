@@ -45,7 +45,7 @@ Academix/ │-- assets/
 
 1️⃣ **Clone the Repository:**
 ```sh
-git clone https://github.com/YOUR_GITHUB_USERNAME/Academix.git
+git clone https://github.com/Ayush-Nayak/Academix.git
 
 2️⃣ Move into the Project Directory:
 cd Academix
